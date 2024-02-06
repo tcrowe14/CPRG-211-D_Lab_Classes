@@ -1,0 +1,7 @@
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_creating_classes\Lab_creating_classes\obj\Debug\Lab_creating_classes.csproj.AssemblyReference.cache
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_creating_classes\Lab_creating_classes\obj\Debug\Lab_creating_classes.csproj.CoreCompileInputs.cache
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_creating_classes\Lab_creating_classes\bin\Debug\Lab_creating_classes.exe.config
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_creating_classes\Lab_creating_classes\bin\Debug\Lab_creating_classes.exe
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_creating_classes\Lab_creating_classes\bin\Debug\Lab_creating_classes.pdb
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_creating_classes\Lab_creating_classes\obj\Debug\Lab_creating_classes.exe
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_creating_classes\Lab_creating_classes\obj\Debug\Lab_creating_classes.pdb
